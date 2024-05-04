@@ -1,6 +1,3 @@
-
-
-
 public class Student {
     // Private fields to store student information
     private int prn; // PRN
