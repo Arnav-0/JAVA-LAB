@@ -1,9 +1,4 @@
-// Student.java
-/*
-Name-Vivek Hotchandani
-Batch- AIML-B3
-PRN-22070126133
-*/
+
 
 
 public class Student {
